@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601382698892",
+    "project_id": "databaselec-b9f81",
+    "storage_bucket": "databaselec-b9f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601382698892:android:314d60cccc5b16215ce0a9",
+        "android_client_info": {
+          "package_name": "com.example.day16database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601382698892-eqop222behojh58rs55acrtvf21bg78b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2h4umMPQ8IBrR7XioYYAHTM8n5_Dcuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601382698892-eqop222behojh58rs55acrtvf21bg78b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
